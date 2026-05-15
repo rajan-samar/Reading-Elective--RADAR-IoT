@@ -127,7 +127,6 @@ CSV Logging
 - max30102_raw.ino
 - ds18b20_test.ino
 - combined_sensor_stream.ino
-- esp32_ble_server.ino
 
 ## Python File
 - radar_iot_processing.py
